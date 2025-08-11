@@ -34,7 +34,7 @@ Install the following system dependencies to build this project by following the
 Clone the project locally. Note the submodule link to the original project(s). 
 
 ```
-git clone https://github.com/CannotCode96/bitcoin-cash-startos.git
+git clone git@github.com:bchnoderunner8400/bitcoin-cash-statos.git
 cd bitcoin-cash-startos
 git submodule update --init
 ```
